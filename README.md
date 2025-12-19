@@ -21,7 +21,7 @@
 <br><br>
 
 6.  Manakah pernyataan berikut ini yang **tidak benar** tentang sistem koordinat Kartesius?
-    - [ ] D. Pada sumbu $y$ vertikal, angka dilambangkan oleh $y$ dan turun ke bawah.
+    - D. Pada sumbu $y$ vertikal, angka dilambangkan oleh $y$ dan turun ke bawah.
 <br><br>
 
 7.  Manakah pernyataan berikut yang tidak benar mengenai penerapan kalkulus dalam berbagai bidang?
@@ -37,7 +37,7 @@
 <br><br>
 
 10. Berapakah himpunan penyelesaian diferensi simetris antara $\{11, 12, 13, 14\}$ dan $\{9, 10, 11, 12\}$ yang tidak salah?
-    - [ ] E. $\{9, 10, 13, 14\}$
+    - E. $\{9, 10, 13, 14\}$
 <br><br>
 
 11. Manakah berikut ini yang **bukan** bagian dari cakupan pembahasan matematika kalkulus?
@@ -45,8 +45,8 @@
 <br><br>
 
 12. Manakah penyelesaian pertidaksamaan matematika $x^2 - x - 6 < 0$ yang benar?
-    - [ ] E. $\{x \in \mathbb{R} \mid -2 < x < 3\}$
+    - E. $\{x \in \mathbb{R} \mid -2 < x < 3\}$
 <br><br>
 
 13. Manakah sifat operasi bilangan real yang **tidak benar**?ls
-    - [ ] E. Elemen Identitas: Terhadap Penjumlahan: 0 sebab $x.0 = x$; Terhadap perkalian: 1 sebab $x+1 = x$.
+    - E. Elemen Identitas: Terhadap Penjumlahan: 0 sebab $x.0 = x$; Terhadap perkalian: 1 sebab $x+1 = x$.
